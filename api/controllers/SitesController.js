@@ -1,5 +1,5 @@
 /**
- * RotationInstanceController
+ * SitesController
  *
  * @module      :: Controller
  * @description	:: A set of functions called `actions`.
@@ -22,7 +22,7 @@ module.exports = {
 
   /**
    * Overrides for the settings in `config/controllers.js`
-   * (specific to RotationInstanceController)
+   * (specific to SitesController)
    */
   _config: {}
 
